@@ -9,6 +9,7 @@ body {
     border-style: groove;
     border-radius: 5%;
     border-width: thick;
+    align: center;
 }
 h1 {
     text-align: center;
@@ -16,11 +17,12 @@ h1 {
     font-style: oblique;
     font-family: cursive;
 }
-#description {
+h2 {
     color: white;
-
+    font-style: oblique;
+    font-family: cursive;
+    text-align: center;
 }
-.Photo {
-    border-radius: 5%;
-    border-color: blueviolet;
+.flexbox  {
+     flex-direction: row;
 }
