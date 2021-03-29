@@ -1,5 +1,6 @@
-body {
-    background-color: hotpink;   
+html {
+    background: url(background/burst.jpg) no-repeat; 
+    background-size: cover;  
 }
 h1 {
     text-align: center;
