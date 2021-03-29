@@ -1,0 +1,26 @@
+body {
+    background-color: hotpink;
+}
+.dress {
+    flex-shrink: inherit;
+    width: 30%;
+    height: 40%;
+    border: blueviolet;
+    border-style: groove;
+    border-radius: 5%;
+    border-width: thick;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-style: oblique;
+    font-family: cursive;
+}
+#description {
+    color: white;
+
+}
+.Photo {
+    border-radius: 5%;
+    border-color: blueviolet;
+}
