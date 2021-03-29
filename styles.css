@@ -1,15 +1,5 @@
 body {
-    background-color: hotpink;
-}
-.dress {
-    flex-shrink: inherit;
-    width: 30%;
-    height: 40%;
-    border: blueviolet;
-    border-style: groove;
-    border-radius: 5%;
-    border-width: thick;
-    align: center;
+    background-color: hotpink;   
 }
 h1 {
     text-align: center;
@@ -23,6 +13,41 @@ h2 {
     font-family: cursive;
     text-align: center;
 }
-.flexbox  {
-     flex-direction: row;
+h3 {
+    color: blue;
+    font-style: oblique;
+    font-family: cursive;
 }
+.dress {
+    flex-shrink: inherit;
+    width: 30%;
+    height: 40%;
+    border: blueviolet;
+    border-style: groove;
+    border-radius: 5%;
+    border-width: thick;
+    align: center;
+    padding: 3%;
+
+}
+.dress1 {
+background-color: lawngreen;
+}
+.dress2 {
+background-color: purple;
+}
+.dress3 {
+background-color: yellow;
+}
+.dress4 {
+background-color: turquoise;
+}
+.dress5 {
+background-color: darkorange;
+
+}
+.dress6 {
+background-color: royalblue;
+}
+]
+
