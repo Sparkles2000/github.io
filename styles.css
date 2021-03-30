@@ -1,5 +1,5 @@
 html {
-    background-repeat: repeat repeat-y;
+    background-repeat: repeat-y;
     background: url(background/burst.jpg) no-repeat; 
     background-size: cover;
 }
