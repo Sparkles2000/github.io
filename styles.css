@@ -1,6 +1,7 @@
 html {
+    background-repeat: repeat repeat-y;
     background: url(background/burst.jpg) no-repeat; 
-    background-size: cover;  
+    background-size: cover;
 }
 h1 {
     text-align: center;
@@ -18,6 +19,7 @@ h3 {
     color: blue;
     font-style: oblique;
     font-family: cursive;
+    text-align: center;
 }
 h3:hover {
     color:hotpink;
@@ -37,6 +39,7 @@ h3:hover {
     align-items: stretch;
     padding: 3%;
     flex-flow: row;
+    flex-wrap: wrap;
 }
 .dress1 {
 background-color: lawngreen;
