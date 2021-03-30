@@ -19,16 +19,20 @@ h3 {
     font-style: oblique;
     font-family: cursive;
 }
+.dress-container{
+    display: block
+}
 .dress {
     flex-shrink: inherit;
-    width: 30%;
-    height: 40%;
+    width: 20%;
+    height: 30%;
     border: blueviolet;
     border-style: groove;
     border-radius: 5%;
     border-width: thick;
     align: center;
     padding: 3%;
+    flex-flow: row;
 
 }
 .dress1 {
@@ -49,6 +53,7 @@ background-color: darkorange;
 }
 .dress6 {
 background-color: royalblue;
-}
-]
 
+h3:hover {
+    color: hotpink;
+}
