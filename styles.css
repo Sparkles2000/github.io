@@ -23,20 +23,20 @@ h3:hover {
     color:hotpink;
 }
 .dress-container{
-    display: block
+    display: flex;
 }
 .dress {
+    
     flex-shrink: inherit;
-    width: 20%;
-    height: 30%;
+    width: 200px;
+    height: 300px;
     border: blueviolet;
     border-style: groove;
     border-radius: 5%;
     border-width: thick;
-    align: center;
+    align-items: stretch;
     padding: 3%;
     flex-flow: row;
-
 }
 .dress1 {
 background-color: lawngreen;
