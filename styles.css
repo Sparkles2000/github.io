@@ -19,6 +19,9 @@ h3 {
     font-style: oblique;
     font-family: cursive;
 }
+h3:hover {
+    color:hotpink;
+}
 .dress-container{
     display: block
 }
@@ -53,7 +56,4 @@ background-color: darkorange;
 }
 .dress6 {
 background-color: royalblue;
-
-h3:hover {
-    color: hotpink;
 }
